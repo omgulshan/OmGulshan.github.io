@@ -4,6 +4,7 @@
 #Education
 Panjab University chandigarh
 B.E ,Mechanical Engineering 
+
 Current CGPA:8.5
 G.D Mission Public School
 12 th-86.2%
